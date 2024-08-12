@@ -1,0 +1,2 @@
+# rule
+openclash规则
